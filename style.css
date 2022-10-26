@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(180, 164, 164);
+}
+
+h1, figure, nav, #citation, #competences, #formations, #experience, #centres_d_interets, td, .section, footer{
+    text-align: center;
+}
+
+#matheo{
+    width: 100px;
+    height: 133px;
+}
+
+table{
+    margin: auto;
+}
+
+a:hover{
+    color: rgb(72, 62, 62);
+}
+
+a{
+    color: rgb(213, 197, 197);
+}
