@@ -16,27 +16,27 @@ table{
 }
 
 .menu{
-    display: flex; /* Transformation en flexbox */
-    padding:0;                  /* Suppression des marges internes */
-    justify-content: center     /* Alignements des liens dans le menu */
+    display: flex;
+    padding:0;
+    justify-content: center;
 }
 
 .menu li {
-    list-style-type: none ;       /* Suppression des puces */
+    list-style-type: none;
 }
 
 .menu a {
-    display:block;                /* Transformation en block */
-    min-width: 120px;             /* Largeur minimale des liens */
-    margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
-    padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
-    text-align: center;           /* Centrage du texte */   
+    display:block;
+    min-width: 120px;
+    margin: 0.5rem;
+    padding: 0.4rem 0;
+    text-align: center;             
     background-color: #000 ; 
     color: #3d645d ;
     text-decoration: none;        /* Suppression du soulignement */
     border: 1px solid #3d645d;       /* Ajout d'une bordure */
     border-radius: 4px;           /* Arrondis des bordures */
-    transition: all 0.5s ;          /* Ajout des effets de transition */
+    transition: all 1s ;          /* Ajout des effets de transition */
 }
 
 .menu a:hover {
