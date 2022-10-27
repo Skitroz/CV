@@ -36,11 +36,11 @@ table{
     text-decoration: none;        /* Suppression du soulignement */
     border: 1px solid #3d645d;       /* Ajout d'une bordure */
     border-radius: 4px;           /* Arrondis des bordures */
-    transition: all 1s ;          /* Ajout des effets de transition */
+    transition: all 0.5s ;          /* Ajout des effets de transition */
 }
 
 .menu a:hover {
     background-color: #2b2428;
-    color: #2b2428;
+    color: #77656f;
     border-color: #252524;
 }
