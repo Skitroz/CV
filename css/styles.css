@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#border-left{
+    margin-left: 500px;
+}
+
+#gray-border-top{
+    background-color: #00d2ad;
+    color: whitesmoke;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+#border-between h2{
+    font-size: 1.4em;
+    margin-left: 2px;
+}
+
+#gray-border-down{
+    background-color: #00d2ad;
+    color: whitesmoke;
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 80px;
+}
+
+#profil{
+    padding-bottom: 5px;
+    border-bottom: 2px solid white;
+}
+
+.liste{
+    margin-left: -20px;
+}
+
+.sous-titre{
+    font-size: 1.2em;
+    margin-bottom: -5px;
+}
+
+.text-left{
+    margin-left: 5px;
+}
+
+main{
+    display: flex;
+}
+
+#border-right{
+    margin-left: -150px;
+}
+
+#exp-pro h2, #formations h2, #competences h2{
+    border-bottom: 2px solid black;
+    margin-bottom: 5px;
+}
+
+.exp, .formations, #competences-1{
+    display: flex;
+    margin-bottom: -15px;
+}
+
+.exp-1{
+    margin-right: 50px;
+}
+
+.exp-1-1-2, .competences1-2{
+    margin-left: 72px;
+}
+
+.formations-1-1{
+    margin-left: 76px;
+}
+
+.exp-1-1 h4, .exp-1-1-2 h4, .formations-1-1 h4, .competences-1-1 h4, .competences1-2 h4, .competences-2 h4{
+    margin-bottom: -10px;
+}
